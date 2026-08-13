@@ -31,14 +31,6 @@ I am currently completing the **Summer 2026** semester and preparing for my **OJ
 - **FPT Software Academy**  
   Completed **IT Fundamentals** training
 
-- Core software engineering courses completed:
-  - SWP391
-  - SWR302
-  - SWT301
-  - HSF302
-
----
-
 ## Technical skills
 
 <p>
@@ -75,7 +67,6 @@ Repositories:
 
 - [horse-racing-fe](https://github.com/quangnckh25dev-gif/horse-racing-fe) - Frontend application
 - [horse-racing-be](https://github.com/quangnckh25dev-gif/horse-racing-be) - Spring Boot backend
-- [horse-racing-swp](https://github.com/quangnckh25dev-gif/horse-racing-swp) - Project repository
 
 ---
 
